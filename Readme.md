@@ -1,15 +1,17 @@
-//DESENVOLVENDO IOS -
+#DESENVOLVENDO IOS
+
+Buscando conhecimento na liguagem [SWFIT]
 
 
- *INICIO DO 'BUSCA'*
+### O QUE PRETENDO APRENDER?
+
+>Ter conhecimento suficiente
+>para desenvolver minhas ideias
+>de aplicativos, colocar em prática
+>conhecimento de programação e design
+>adquiridos anos antes.
 
 
-//O QUE É O 'BUSCA'?
+### QUEM SOU EU?
 
-
-
-//COMO ELE VAI AJUDAR?
-
-
-//QUE PROBLEMA ELE VAI RESOLVER?
-
+Veja meu perfil no [Linkedin](https://www.linkedin.com/in/mleonizio/)
